@@ -196,7 +196,7 @@ namespace Blazor_Lab_Starter_Code
 
                 if (user != null)
                 {
-                    users.Remove(user);
+                    //users.Remove(user);
                     Console.WriteLine("User deleted successfully!\n");
                 }
                 else
