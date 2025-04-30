@@ -4,7 +4,6 @@
 
 		static void Main()
 		{
-            Console.WriteLine("Hello World");
             Methods m = new Methods();
 
 			m.ReadBooks();
